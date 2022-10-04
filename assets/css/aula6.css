@@ -1,0 +1,18 @@
+.tabela {
+  width: 50%;
+  border: none;
+}
+
+.linha1 {
+  background-color: black;
+  color: white;
+}
+
+th {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+tr:nth-child(even) {
+  background: rgb(230, 224, 224);
+}
